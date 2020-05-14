@@ -27,7 +27,7 @@ User-Stories list:
 - As a user, I want to be able to save my todo list to file.
 - As a user, I want to be able to load my to-do list.
 
-#Instruction for Grader:
+#Instruction for user:
 - Please run the Main class from UI package first.
 - You can generate the first required event by writing a task in the JTextField and clicking Add Task button.
 - You can generate the second required event by selecting a task and clicking Delete Task button.
