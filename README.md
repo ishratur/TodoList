@@ -13,7 +13,7 @@ efficient and organized manner.
 I am interested in this project, because it will help me in applying my skills acquired
 in class. I will be able to use my own application when keeping track of the list of tasks that
 I need to finish, instead of using a third party application. Also as I understand concepts
-more firmly, I can make better changes to my application.
+more firmly, I can make better changes to my application. More advanced features will be added in future.
 ## User Stories
 
 
