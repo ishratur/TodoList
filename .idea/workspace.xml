@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5db7f086-6684-48ad-849c-e81c392763ce" name="Default Changelist" comment="Project Phase 3 V4" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="291" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="f8a8a015816d8ad0927de605b6f71da12d49aa5c" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XGdkhOYbBBtr7uMh6PoHdBSXpj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="276" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Main" />
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Project-Starter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.TaskListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.TaskTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="model in Project-Starter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TaskTest" />
+        <item itemvalue="JUnit.TaskListTest" />
+        <item itemvalue="JUnit.model in Project-Starter" />
+        <item itemvalue="JUnit.All in Project-Starter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5db7f086-6684-48ad-849c-e81c392763ce" name="Default Changelist" comment="" />
+      <created>1580676509341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580676509341</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Updated README.md">
+      <created>1580699735339</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580699735339</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Project Phase 1 V.1">
+      <created>1581361560362</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581361560362</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Project Phase 1 V.2">
+      <created>1581361822937</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581361822937</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Project Phase 1 V.3">
+      <created>1581363323911</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581363323911</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Project Phase 1 V.4">
+      <created>1581368646883</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581368646883</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Project Phase 1 V.5">
+      <created>1581540821800</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581540821800</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Project Phase 1 V.6">
+      <created>1581541525944</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581541525944</updated>
+    </task>
+    <task id="LOCAL-00008" summary="stashing changes for grading">
+      <created>1582752985898</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582752985898</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Project Phase 2 V1.">
+      <created>1582767651728</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582767651728</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Project Phase 2 V2.">
+      <created>1582767945470</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582767945470</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Project Phase 2 V3.">
+      <created>1582769068165</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1582769068165</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Project Phase 2 V4.">
+      <created>1582769331328</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1582769331328</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Project Phase 3 V1.">
+      <created>1584162805123</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1584162805123</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Project Phase 3 V2">
+      <created>1584590048270</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1584590048270</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Project Phase 3 V3">
+      <created>1584735199568</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1584735199568</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Project Phase 3 V4">
+      <created>1584759341698</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1584759341698</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Updated README.md" />
+    <MESSAGE value="Project Phase 1 V.1" />
+    <MESSAGE value="Project Phase 1 V.2" />
+    <MESSAGE value="Project Phase 1 V.3" />
+    <MESSAGE value="Project Phase 1 V.4" />
+    <MESSAGE value="Project Phase 1 V.5" />
+    <MESSAGE value="Project Phase 1 V.6" />
+    <MESSAGE value="stashing changes for grading" />
+    <MESSAGE value="Project Phase 2 V1." />
+    <MESSAGE value="Project Phase 2 V2." />
+    <MESSAGE value="Project Phase 2 V3." />
+    <MESSAGE value="Project Phase 2 V4." />
+    <MESSAGE value="Project Phase 3 V1." />
+    <MESSAGE value="Project Phase 3 V2" />
+    <MESSAGE value="Project Phase 3 V3" />
+    <MESSAGE value="Project Phase 3 V4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Phase 3 V4" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="790" y="333" key="#Plugins" timestamp="1584150170659">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="790" y="333" key="#Plugins/0.23.2560.1337@0.23.2560.1337" timestamp="1584150170659" />
+    <state x="169" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589429585193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="169" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589429585193" />
+    <state x="567" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1584145038340" />
+    <state x="526" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585725777083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585725777083" />
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1585725752521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585725752521" />
+    <state x="635" y="56" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581305181257">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="635" y="56" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1581305181257" />
+    <state x="428" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584143772686">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="428" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1584143772686" />
+    <state x="611" y="345" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1581305295066" />
+    <state x="605" y="16" key="CommitChangelistDialog2" timestamp="1585375431002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="605" y="16" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585375431002" />
+    <state x="706" y="162" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1584162804959" />
+    <state x="1009" y="206" key="CommitChangelistDialog2/0.23.2560.1337@0.23.2560.1337" timestamp="1584759341612" />
+    <state x="386" y="155" key="ConfigureClientPropertiesDialog" timestamp="1585382108501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="386" y="155" key="ConfigureClientPropertiesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585382108501" />
+    <state width="412" height="466" key="DebuggerActiveHint" timestamp="1585365834144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="412" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1585365834144" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1589429653274">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589429653274" />
+    <state width="1515" height="163" key="GridCell.Tab.0.bottom" timestamp="1589429886945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="163" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589429886945" />
+    <state width="1357" height="263" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1584163174423" />
+    <state width="2124" height="225" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1584767554027" />
+    <state width="1515" height="163" key="GridCell.Tab.0.center" timestamp="1589429886945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="163" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589429886945" />
+    <state width="1357" height="263" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1584163174423" />
+    <state width="2124" height="225" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1584767554026" />
+    <state width="1515" height="163" key="GridCell.Tab.0.left" timestamp="1589429886945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="163" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589429886945" />
+    <state width="1357" height="263" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1584163174422" />
+    <state width="2124" height="225" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1584767554026" />
+    <state width="1515" height="163" key="GridCell.Tab.0.right" timestamp="1589429886945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="163" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589429886945" />
+    <state width="1357" height="263" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1584163174423" />
+    <state width="2124" height="225" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1584767554027" />
+    <state width="1515" height="238" key="GridCell.Tab.1.bottom" timestamp="1585516541450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="238" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585516541450" />
+    <state width="1357" height="325" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1584147523901" />
+    <state width="1515" height="238" key="GridCell.Tab.1.center" timestamp="1585516541450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="238" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585516541450" />
+    <state width="1357" height="325" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1584147523901" />
+    <state width="1515" height="238" key="GridCell.Tab.1.left" timestamp="1585516541450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="238" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585516541450" />
+    <state width="1357" height="325" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1584147523901" />
+    <state width="1515" height="238" key="GridCell.Tab.1.right" timestamp="1585516541450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="238" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585516541450" />
+    <state width="1357" height="325" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1584147523901" />
+    <state x="163" y="112" key="SettingsEditor" timestamp="1585379606887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="163" y="112" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585379606887" />
+    <state x="190" y="190" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1584142256666" />
+    <state x="647" y="208" key="UIDesigner.ListEditorDialog" timestamp="1585375150626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="208" key="UIDesigner.ListEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1585375150626" />
+    <state x="985" y="344" key="Vcs.Push.Dialog.v2" timestamp="1584759343162">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="690" y="267" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1584162808582" />
+    <state x="985" y="344" key="Vcs.Push.Dialog.v2/0.23.2560.1337@0.23.2560.1337" timestamp="1584759343162" />
+    <state x="566" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1589426271411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="301" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589426271411" />
+    <state x="660" y="395" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1584141389030" />
+    <state x="943" y="512" key="com.intellij.ide.util.TipDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1585334221378" />
+    <state x="540" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585472566512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1585472566512" />
+    <state x="345" y="149" width="846" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585364624396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="345" y="149" width="846" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1585364624396" />
+    <state x="393" y="361" key="git4idea.merge.GitPullDialog" timestamp="1582691911171">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="393" y="361" key="git4idea.merge.GitPullDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1582691911171" />
+    <state x="562" y="467" key="git4idea.merge.GitPullDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1582503107881" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1585472069841">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585472069841" />
+    <state x="303" y="207" width="672" height="548" key="search.everywhere.popup" timestamp="1585468686157">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="303" y="207" width="672" height="548" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585468686157" />
+    <state x="354" y="278" width="670" height="676" key="search.everywhere.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1581362996284" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/model/TaskList.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/model/TaskListTest.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/ui/ToDoList.java</url>
+          <line>123</line>
+          <properties class="ui.ToDoList" method="isFileExist">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_Starter$WriterTest.ic" NAME="WriterTest Coverage Results" MODIFIED="1582770250018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>persistence.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$ReaderTest.ic" NAME="ReaderTest Coverage Results" MODIFIED="1582770234792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>persistence.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$TaskListTest.ic" NAME="TaskListTest Coverage Results" MODIFIED="1585727137868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$TaskTest.ic" NAME="TaskTest Coverage Results" MODIFIED="1585727146803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$Main.ic" NAME="Main Coverage Results" MODIFIED="1585451159970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ui.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$All_in_Project_Starter.ic" NAME="All in Project-Starter Coverage Results" MODIFIED="1584735082656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Project_Starter$ToDoListTest.ic" NAME="ToDoListTest Coverage Results" MODIFIED="1581369001609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$model_in_Project_Starter.ic" NAME="model in Project-Starter Coverage Results" MODIFIED="1585476337922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+  </component>
+</project>
